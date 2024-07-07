@@ -1,0 +1,13 @@
+name = "Cobblemon Armor Sets "
+filename = "cobblemon_armor_sets-FORGE-2.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "24c96ce229503cd9c010ab4358faa922566cd4ff"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5297981
+project-id = 855428

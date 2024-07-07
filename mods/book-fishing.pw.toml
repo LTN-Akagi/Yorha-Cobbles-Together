@@ -1,0 +1,13 @@
+name = "Book Fishing"
+filename = "Book Fishing 1.0.0 - 1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fbdc8faddaa5dec38ccac9dbbb5bf7f76f60db31"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5352686
+project-id = 511858
