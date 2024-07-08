@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/aether.pw.toml"
+hash = "60a6223b39c88bca7dbf372c8560cf437377b2d4024c20712d36588216c858b2"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "8d0321177fed4a0b48554c40158b43db62f6cdaa768f584ef6a11575dfaa6223"
 metafile = true
@@ -48,6 +53,11 @@ metafile = true
 [[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "bc2354c6c71f6c74449dbf15c967ca32ddd46856b37874b307b47c68c6910e2b"
+metafile = true
+
+[[files]]
+file = "mods/chunk-sending-forge-fabric.pw.toml"
+hash = "86252c4e6701b798dac5ddef4b0fa6b6f5bdb280e83945b5b98d7c0be4441a35"
 metafile = true
 
 [[files]]
@@ -141,6 +151,11 @@ hash = "62259ecefde8ef9a3819ce83faa17d40591ce6bbdc91ef4303ebaf81f7d44923"
 metafile = true
 
 [[files]]
+file = "mods/create-steam-n-rails.pw.toml"
+hash = "1ba1548e25b229c3097a310113d2929c94d6b5f183b64a0ebb2227799195cfcd"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
 hash = "6ecc31d75d379730df8fe950438b4ca26ed1daa8612406374552665f9222f9ea"
 metafile = true
@@ -151,6 +166,11 @@ hash = "2f27bc6b84433eb0bec1338dadba55037635ab7eb7209bc4609f539c89c4c65d"
 metafile = true
 
 [[files]]
+file = "mods/cucumber.pw.toml"
+hash = "e35517b83b74491569b8b39d1727d52bcd4fc604fa8e549f3adc97b14f621306"
+metafile = true
+
+[[files]]
 file = "mods/cupboard.pw.toml"
 hash = "2eb26b157c4159bfeff6a00147afa35284397d558f84b55367d1a41064d7456a"
 metafile = true
@@ -158,6 +178,11 @@ metafile = true
 [[files]]
 file = "mods/curios.pw.toml"
 hash = "ef203cfb9e4703fc48e154ccc2da9f0a1af4770d49f403f3ed0a581e5498a515"
+metafile = true
+
+[[files]]
+file = "mods/dcintegration.pw.toml"
+hash = "ec5b452599201804f40e6a9f4549849065b8428d5b046bd0638f9897e1e4b72c"
 metafile = true
 
 [[files]]
@@ -241,8 +266,18 @@ hash = "5bd0506bc0be25116b234f2b5af9447f60d82ae1cb6c5be4e12d8841f6c2501c"
 metafile = true
 
 [[files]]
+file = "mods/flux-networks.pw.toml"
+hash = "de63df967225278681e18afe0e323110322ec02006746980fbe77dbd974b20b3"
+metafile = true
+
+[[files]]
 file = "mods/from-the-fog.pw.toml"
 hash = "f88eceacf4eb7696d520f90122ed04de3011491de33662ffb3d3789d06e20e0b"
+metafile = true
+
+[[files]]
+file = "mods/ftb-backups-2.pw.toml"
+hash = "b3693e7a5647d4e28fc30ad3e85193c668a98a410dc3f425f19561cfea68957f"
 metafile = true
 
 [[files]]
@@ -273,6 +308,11 @@ metafile = true
 [[files]]
 file = "mods/handcrafted.pw.toml"
 hash = "b9a7e71472f5f88229bf2f9e214b223b3900052bdc56075906d7a22acf74568c"
+metafile = true
+
+[[files]]
+file = "mods/in-control.pw.toml"
+hash = "72c5a050f27f3538793dac87230372df8a79a9a94fd51dbc7d92a6d5c02f2a8f"
 metafile = true
 
 [[files]]
@@ -361,6 +401,11 @@ hash = "17042dd194ce5fca77a48561a9362f62b6faa0c1d25b00953cf3041405906f8f"
 metafile = true
 
 [[files]]
+file = "mods/minecraft-comes-alive-reborn.pw.toml"
+hash = "89e03d1fea6d283c9d127ca0555c7124e5b84d05555575ff164a92c6e2511124"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "b1eca3f7a0293f8536a49d1391c07b18339702b1d085a7ba7275a780a1767f62"
 metafile = true
@@ -376,8 +421,28 @@ hash = "3d3a8cd6517c5804bd1ce2e4e05197ef40d33ed04c26b448c3eba6ac2b25321b"
 metafile = true
 
 [[files]]
+file = "mods/mystical-agradditions.pw.toml"
+hash = "f939cc10d02119ddd6827c8205c753416e191788032209db7cfcbafb186fef37"
+metafile = true
+
+[[files]]
+file = "mods/mystical-agriculture.pw.toml"
+hash = "4bdeb76d67a9f647ef37303bcb9403b8281d5cd8dd99d7505afbca21b2b26158"
+metafile = true
+
+[[files]]
 file = "mods/netherportalfix.pw.toml"
 hash = "820d6b97344411476b96ae2bc8a3e4b9e30e15dfd15d8d0c945726b0011928d4"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "1d602996f39fb6103a5b968f50ec06800db7125b145570474c9c10e6dcd0c68e"
+metafile = true
+
+[[files]]
+file = "mods/oculus.pw.toml"
+hash = "6bb8b0848783cdf7108e499107a4991c2cee2a9240b963d427fa62b0f2a5820e"
 metafile = true
 
 [[files]]
@@ -398,6 +463,11 @@ metafile = true
 [[files]]
 file = "mods/player-shops.pw.toml"
 hash = "5f09a024cc9ea15c27be902c87ba68f9953c9d10eace4a190ccd006d3520312d"
+metafile = true
+
+[[files]]
+file = "mods/polylib.pw.toml"
+hash = "947d5f3b9213360b68e9b65a8d2d5111939e82e248cf61eb02137f119c6eaeb6"
 metafile = true
 
 [[files]]
@@ -466,6 +536,16 @@ hash = "9935c85e1d899d5bd69e83b51070cdca5ae9dc138bb6ccde8f76aac214df0cc0"
 metafile = true
 
 [[files]]
+file = "mods/sophisticated-storage.pw.toml"
+hash = "ab9393f8ffa86006454b2eef2d0276630baacb9644f48ee04c7e1abc5090f2d0"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "d0e1a79dbcda8499e0f12f4adaa5503f9bbc84a6274ce07b3a3839476622e8e5"
+metafile = true
+
+[[files]]
 file = "mods/structure-gel-api.pw.toml"
 hash = "5dfd5e42573659ad84a5d870082aae38aaa8469aba2655e5b2cb14de4ca4cbdd"
 metafile = true
@@ -473,6 +553,11 @@ metafile = true
 [[files]]
 file = "mods/terrablender.pw.toml"
 hash = "97175f71f202d2d47a5828568c9f53339952a1c20b09378bdf5ad34557a8b4be"
+metafile = true
+
+[[files]]
+file = "mods/the-undergarden.pw.toml"
+hash = "4a51e5a0f11ba9b7599dcea129862829bfd028c57bf9997f9513b38defbc7e51"
 metafile = true
 
 [[files]]
