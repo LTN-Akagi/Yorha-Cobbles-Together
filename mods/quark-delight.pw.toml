@@ -3,11 +3,6 @@ filename = "quark_delight_1.0.0_forge_1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "06e0c415a201f80969fdf8ff0eb1f07c8c7a5751"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 5052580
-project-id = 963245
+url = "https://cdn.discordapp.com/attachments/1170430882142748864/1259583581655666771/quark_delight_1.0.0_forge_1.20.1.jar?ex=668cdedf&is=668b8d5f&hm=82d1eed8f8149afa38fe288f24734444469bf14f500155736e04152b15dcb02a&"
+hash-format = "sha256"
+hash = "1ca98c2776cbb0f4feb226d26adda6e393cb5a393d74b1397f4f2136e563193b"

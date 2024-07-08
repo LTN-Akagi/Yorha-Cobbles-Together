@@ -3,11 +3,6 @@ filename = "entityculling-forge-1.6.6-mc1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "cc2e44cd3260f98ef35297854e5154a36add36cc"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 5429151
-project-id = 448233
+url = "https://cdn.discordapp.com/attachments/1170430882142748864/1259583581957918760/entityculling-forge-1.6.6-mc1.20.1.jar?ex=668cdedf&is=668b8d5f&hm=00e3ce7a98b399124de8372615b39ba55b9fa6b19b591a144a43efe060b5c935&"
+hash-format = "sha256"
+hash = "83f0783e4816cb07556b250a6cf82eb762505f4117c516aa455959aa83f41eb1"

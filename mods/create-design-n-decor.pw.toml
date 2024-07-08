@@ -3,11 +3,6 @@ filename = "design_decor-0.4-1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "83e059b4bd752d52842971adf1d9462c1ecf862a"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 5291634
-project-id = 923238
+url = "https://cdn.discordapp.com/attachments/1170430882142748864/1259583582586798203/design_decor-0.4-1.20.1.jar?ex=668cdee0&is=668b8d60&hm=fbd665a4164d290c6733da4abb29866b889b1647c9ea9fe8cb1b049d2921076e&"
+hash-format = "sha256"
+hash = "e697bf38b4ce1f2b190c1f12f01be574a1a71c525a5bfa9063d93f9eeecb123f"

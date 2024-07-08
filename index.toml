@@ -127,12 +127,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-design-n-decor.pw.toml"
-hash = "bceb4b87fef24990c8f20cfc218307d6cc584d87ab48673838144b954a417c7a"
-metafile = true
-
-[[files]]
-file = "mods/create-fabric.pw.toml"
-hash = "252878ad67eb85e89d725478bd36a64ce6f84b247c3ac8a1851f3b4f553f11f4"
+hash = "11cdc10688facbd2c3307f25e6f9784349527b35cb56a3cd0b90b2ef422611fe"
 metafile = true
 
 [[files]]
@@ -142,7 +137,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-recycle-everything.pw.toml"
-hash = "1d987c4ca9901405394b0a3988a40f2e046cae68008d7f192a60890660b98394"
+hash = "62259ecefde8ef9a3819ce83faa17d40591ce6bbdc91ef4303ebaf81f7d44923"
 metafile = true
 
 [[files]]
@@ -197,7 +192,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "3de9fc56a1f656b20b308f462aac84aa50bd30551371137b752db21cf5091cfd"
+hash = "f503d1499ab1a8d80e2d4435c23f9c0d46dbe175070e507849cef14ccd777245"
 metafile = true
 
 [[files]]
@@ -241,6 +236,11 @@ hash = "934356aa7d5db3c739432bff16ff41d47650ebfc5b1f0a2ec50db6dee1a346fe"
 metafile = true
 
 [[files]]
+file = "mods/ferritecore.pw.toml"
+hash = "5bd0506bc0be25116b234f2b5af9447f60d82ae1cb6c5be4e12d8841f6c2501c"
+metafile = true
+
+[[files]]
 file = "mods/from-the-fog.pw.toml"
 hash = "f88eceacf4eb7696d520f90122ed04de3011491de33662ffb3d3789d06e20e0b"
 metafile = true
@@ -278,11 +278,6 @@ metafile = true
 [[files]]
 file = "mods/jei-integration.pw.toml"
 hash = "06476837027569174dc086ae42b7c8055814f9b8d9f1376b862fc4c54e96e0bd"
-metafile = true
-
-[[files]]
-file = "mods/jei.pw.toml"
-hash = "fe0c032092af5482bd2255148c55ed5b9fabdfeccff4fe24f2faf488d04c5d15"
 metafile = true
 
 [[files]]
@@ -391,11 +386,6 @@ hash = "7fe39c6ca31974b4e57e4b08a174beb959933767623c70893064a282ae29a859"
 metafile = true
 
 [[files]]
-file = "mods/patchouli-fabric.pw.toml"
-hash = "bee26d2e960c581345314493bfebe8d0cc316df8b0199b99bd35cdcdb0345250"
-metafile = true
-
-[[files]]
 file = "mods/patchouli.pw.toml"
 hash = "3a7eaa64434e7449e5fe6bd089bc784499432dae7d6ca07174b55b10a3b32ec8"
 metafile = true
@@ -417,7 +407,7 @@ metafile = true
 
 [[files]]
 file = "mods/quark-delight.pw.toml"
-hash = "3530e36f831f968105b2a8f5fe476eb2045bb4ad9f04a757958a94ad81f87790"
+hash = "789b6c6b0d367c0f6a8d212c117c81e2384babd01fffb00e18278d693e9ad253"
 metafile = true
 
 [[files]]

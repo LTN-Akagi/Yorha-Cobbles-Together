@@ -3,11 +3,6 @@ filename = "create_recycle_1.0.2_forge_1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "e388ad4db938eaeddcaac49b49d5997794a3cfc8"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 4714469
-project-id = 872577
+url = "https://cdn.discordapp.com/attachments/1170430882142748864/1259583582238933012/create_recycle_1.0.2_forge_1.20.1.jar?ex=668cdedf&is=668b8d5f&hm=bcba73660b7bcadd8381a6c7e1d5df2dd6ad5dd8167e093e19f91f13a430b916&"
+hash-format = "sha256"
+hash = "dbdf418ae63f929600784db71310ed80c7e7c30a60d1f3467dccb2a9d81caa52"
