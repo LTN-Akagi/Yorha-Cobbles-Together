@@ -571,6 +571,16 @@ hash = "b408c5f1be6f3a0af123a351f4334e72d2ace21973096d7862243e109f28fbec"
 metafile = true
 
 [[files]]
+file = "mods/yungs-api.pw.toml"
+hash = "0604af4500f5e7ea46e38f7faef3459023c305b3155eacbf406e600073f643d9"
+metafile = true
+
+[[files]]
+file = "mods/yungs-bridges.pw.toml"
+hash = "97a03cf27afe3b50d3b9e97b79fda3e30a6d74e3b3c3fee3db28a4d7b20bc516"
+metafile = true
+
+[[files]]
 file = "mods/zeta.pw.toml"
 hash = "d0a8b2b9ba78bc8171e96ac4bf0ee800fff6bc326c8b5e582e9d36d19d845e1c"
 metafile = true
