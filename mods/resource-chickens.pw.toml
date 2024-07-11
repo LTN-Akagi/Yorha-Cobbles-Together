@@ -1,0 +1,13 @@
+name = "Resource Chickens"
+filename = "Resource Chickens-1.20.1-2.6beta1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9a2a211d4528c9bf8d3643d4d194648a8492c62b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5485580
+project-id = 632145
