@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/aeinfinitybooster.pw.toml"
+hash = "d95d736d272530576a042e3ee4d11c5ecfe9f03d509219f0babe867ed14597b1"
+metafile = true
+
+[[files]]
 file = "mods/aether.pw.toml"
 hash = "60a6223b39c88bca7dbf372c8560cf437377b2d4024c20712d36588216c858b2"
 metafile = true
@@ -8,6 +13,16 @@ metafile = true
 [[files]]
 file = "mods/appleskin.pw.toml"
 hash = "8d0321177fed4a0b48554c40158b43db62f6cdaa768f584ef6a11575dfaa6223"
+metafile = true
+
+[[files]]
+file = "mods/applied-energistics-2-wireless-terminals.pw.toml"
+hash = "ce0e9fa014aa89feba5a400cdf445299f7c1450fff978b15dbd72fbc8cec7552"
+metafile = true
+
+[[files]]
+file = "mods/applied-energistics-2.pw.toml"
+hash = "63b91450f071765252995689ec91545c92c06f44c2e72a51a934333dab176590"
 metafile = true
 
 [[files]]
@@ -48,6 +63,11 @@ metafile = true
 [[files]]
 file = "mods/botany-trees.pw.toml"
 hash = "513bfca78fa8de750dbc620919391b839975c1ce4b7c2f3891c1f963476a8d6a"
+metafile = true
+
+[[files]]
+file = "mods/building-gadgets.pw.toml"
+hash = "8461b7344559646b5051a6d812e2cd4d43e62c8c817d17f0b2552f65306f43d4"
 metafile = true
 
 [[files]]
@@ -196,6 +216,11 @@ hash = "6d7c89e1a11961ebdc4752aabf4969f2ec5a28099444fefe2046c3769db3e885"
 metafile = true
 
 [[files]]
+file = "mods/ding.pw.toml"
+hash = "a98292cb6bff4b6a481306dc38b95b6c781f5b284433f8938573379ed0f39ed0"
+metafile = true
+
+[[files]]
 file = "mods/dont-clear-chat-history.pw.toml"
 hash = "f2f0e1252ee2c188d9fae2b31317c3ceed43f70e43e532a535f6fb74d31755dc"
 metafile = true
@@ -306,6 +331,11 @@ hash = "76c3828b4e7288b79d6b0ca1418410539082a749650f9c85c6b03cf53ed1221e"
 metafile = true
 
 [[files]]
+file = "mods/functional-storage.pw.toml"
+hash = "c78e7b2d7567974662903af16795c1d97c4102fa5876dcc6eeb9234f8946c8c4"
+metafile = true
+
+[[files]]
 file = "mods/gravestone-mod.pw.toml"
 hash = "941bbc3b5a23b8392d88b534a7fa1973273c3daa6f8fb70bfe4d4645423a2159"
 metafile = true
@@ -316,8 +346,18 @@ hash = "b9a7e71472f5f88229bf2f9e214b223b3900052bdc56075906d7a22acf74568c"
 metafile = true
 
 [[files]]
+file = "mods/ichunutil.pw.toml"
+hash = "8db43c90ffb5b4d4deb7746384b13f6a7eb52f4f95dcd53982fce3e28694113b"
+metafile = true
+
+[[files]]
 file = "mods/in-control.pw.toml"
-hash = "72c5a050f27f3538793dac87230372df8a79a9a94fd51dbc7d92a6d5c02f2a8f"
+hash = "7fda686990a1016296c84c85a6a18885c4b7b1554f2fc20d08a5b704bb72c044"
+metafile = true
+
+[[files]]
+file = "mods/inventory-sorter.pw.toml"
+hash = "537f95eb95c08a7510b7151d2960904d2fae3ccd515a5f369063c11f707584fb"
 metafile = true
 
 [[files]]
@@ -406,6 +446,11 @@ hash = "17042dd194ce5fca77a48561a9362f62b6faa0c1d25b00953cf3041405906f8f"
 metafile = true
 
 [[files]]
+file = "mods/measurements.pw.toml"
+hash = "0b56bf8c727d35f46ab02b74573112bf80cc57a09c99a72c7d93744bf9888830"
+metafile = true
+
+[[files]]
 file = "mods/minecraft-comes-alive-reborn.pw.toml"
 hash = "89e03d1fea6d283c9d127ca0555c7124e5b84d05555575ff164a92c6e2511124"
 metafile = true
@@ -491,6 +536,11 @@ hash = "1d72ac6ec515db48cb89dae58345b514524f195bc5ab1942d1ce9fb91d30defd"
 metafile = true
 
 [[files]]
+file = "mods/refined-storage.pw.toml"
+hash = "4f8fa2d8bba834bac3240024294ff9f2881fe20e11d775a93497dec5d25be571"
+metafile = true
+
+[[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "2ebc9366a396634d88e2ca05600797edf48edd1005318256aa35e4ffc740e516"
 metafile = true
@@ -516,8 +566,18 @@ hash = "afbc1b044e9a53bc2db3686bdc4b8e8d099972de2bd802482a569594c209b471"
 metafile = true
 
 [[files]]
+file = "mods/rsinfinitybooster.pw.toml"
+hash = "493d90f8a2357351d53e72b27e70af82e05fae25e0f4496f540656b6517a1887"
+metafile = true
+
+[[files]]
 file = "mods/searchables.pw.toml"
 hash = "2cb8dd9a3944a6430b49916a4fe1b6cf0bd7efd907054f8e679a02717149404f"
+metafile = true
+
+[[files]]
+file = "mods/shrink_.pw.toml"
+hash = "bb499bb2efd030f7d1487359492bf1877a799ca009d76a8d8b3c3f89fe0ae8c8"
 metafile = true
 
 [[files]]
@@ -571,8 +631,18 @@ hash = "4a51e5a0f11ba9b7599dcea129862829bfd028c57bf9997f9513b38defbc7e51"
 metafile = true
 
 [[files]]
+file = "mods/titanium.pw.toml"
+hash = "5e41fd8f565e09e83868e4c4776154befd3203b01ed5f09b6f7cd27687ec0041"
+metafile = true
+
+[[files]]
 file = "mods/toms-storage.pw.toml"
 hash = "03a75c21f9f75a904e0dc846e73b6747735432d96a7b8aa9fb7177116df252e2"
+metafile = true
+
+[[files]]
+file = "mods/torchmaster.pw.toml"
+hash = "7dea79ae9793a1a5ff3bb97f17ab5f835d07fd1053ade9114feced05bccb0229"
 metafile = true
 
 [[files]]
