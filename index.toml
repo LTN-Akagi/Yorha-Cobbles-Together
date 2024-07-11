@@ -552,7 +552,7 @@ metafile = true
 
 [[files]]
 file = "mods/resource-chickens.pw.toml"
-hash = "ecdf17e8c33b3720e56df5ce7cb8606723b1961a9e83073c60ac1aaec250fdc1"
+hash = "3e61e427cc30569346e1e39b14dc937b8f924e3d33e8357d7803332a1391103b"
 metafile = true
 
 [[files]]
