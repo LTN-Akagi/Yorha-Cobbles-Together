@@ -86,6 +86,11 @@ hash = "86252c4e6701b798dac5ddef4b0fa6b6f5bdb280e83945b5b98d7c0be4441a35"
 metafile = true
 
 [[files]]
+file = "mods/chunky-pregenerator-forge.pw.toml"
+hash = "7d3fded0a343b2953e2a77fd1d2ed7abc547d7008f5b1b842546f28b8df1b802"
+metafile = true
+
+[[files]]
 file = "mods/cleanview.pw.toml"
 hash = "996513f43b46a892cc7c67b66c37e7bfdb602aec96c143817fd3a0fcffc4522d"
 metafile = true
