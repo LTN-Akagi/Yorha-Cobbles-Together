@@ -87,7 +87,7 @@ metafile = true
 
 [[files]]
 file = "mods/chunky-pregenerator-forge.pw.toml"
-hash = "7d3fded0a343b2953e2a77fd1d2ed7abc547d7008f5b1b842546f28b8df1b802"
+hash = "07bcc84f632e4b6479d21477d913db014ca1c452cbca8c0b41e629862277b596"
 metafile = true
 
 [[files]]
