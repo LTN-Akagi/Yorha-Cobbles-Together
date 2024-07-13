@@ -46,6 +46,11 @@ hash = "b0119b17c7c9a075780d55dc87749942a835365db5578102d6250db8875e8267"
 metafile = true
 
 [[files]]
+file = "mods/bluemap.pw.toml"
+hash = "90cb602fbf574387a46386266733b753c9cf00e4497f1821f87c8d84ffe3d7a3"
+metafile = true
+
+[[files]]
 file = "mods/book-fishing.pw.toml"
 hash = "73665190b2eecaa37cbce556c1839017000b0b43de4444fe03c77a08b3f69bc0"
 metafile = true
