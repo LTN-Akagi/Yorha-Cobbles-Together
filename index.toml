@@ -376,6 +376,16 @@ hash = "537f95eb95c08a7510b7151d2960904d2fae3ccd515a5f369063c11f707584fb"
 metafile = true
 
 [[files]]
+file = "mods/jade-addons.pw.toml"
+hash = "3a61d8d5097d96d41106c38bd40d17b8847c0d388219e6797ba29b187fd50411"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "c309e7c7ee8233136eca526d44d6c6b6a2411f11eb6fe0394e81df1dc6de355f"
+metafile = true
+
+[[files]]
 file = "mods/jei-integration.pw.toml"
 hash = "06476837027569174dc086ae42b7c8055814f9b8d9f1376b862fc4c54e96e0bd"
 metafile = true
@@ -643,11 +653,6 @@ metafile = true
 [[files]]
 file = "mods/terrablender.pw.toml"
 hash = "97175f71f202d2d47a5828568c9f53339952a1c20b09378bdf5ad34557a8b4be"
-metafile = true
-
-[[files]]
-file = "mods/the-one-probe.pw.toml"
-hash = "df1685bdc334c1441facd8cb06430c45f18cd9132865fa777746cc490befd433"
 metafile = true
 
 [[files]]
