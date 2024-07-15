@@ -146,13 +146,13 @@ hash = "c4fb28b07b296338715faf16203b04d19e779ea77edb6f27937351d5d809f6a7"
 metafile = true
 
 [[files]]
-file = "mods/cobblemontrainers.pw.toml"
-hash = "ff150225cd329b3aa43e20f01f2eef8a8d6da5f6ef428673ecf007a82e3aefd3"
+file = "mods/cobblepedia.pw.toml"
+hash = "97cb28cd497b055381e381c9b70bb560b4181db61ecefa92b7521ccc92da5359"
 metafile = true
 
 [[files]]
-file = "mods/cobblepedia.pw.toml"
-hash = "97cb28cd497b055381e381c9b70bb560b4181db61ecefa92b7521ccc92da5359"
+file = "mods/comforts.pw.toml"
+hash = "db01ff332b926267e5343601473582e51cddd1dff7c0bfef0809dc9802c07480"
 metafile = true
 
 [[files]]
@@ -248,6 +248,16 @@ metafile = true
 [[files]]
 file = "mods/dungeonsenhanced.pw.toml"
 hash = "7ed550adeeb4a7a12e124d63e44ef23e24292254f312e64686df8b42827b6f18"
+metafile = true
+
+[[files]]
+file = "mods/durability-tooltip.pw.toml"
+hash = "4a66eb10fbfd1a9cc225eb6c4eadfc03a7938e0427641d25802b7d32748f7a11"
+metafile = true
+
+[[files]]
+file = "mods/easy-piglins.pw.toml"
+hash = "f73612865c7a426e4b374f142a3b170ee5405efa972dc3b35b90f81c8d85b2a8"
 metafile = true
 
 [[files]]
@@ -476,6 +486,16 @@ hash = "0b56bf8c727d35f46ab02b74573112bf80cc57a09c99a72c7d93744bf9888830"
 metafile = true
 
 [[files]]
+file = "mods/mekanism-generators.pw.toml"
+hash = "31bedc841cd4f28284805ce9b2c1ab53a39c2fa062816e1e520ef1b7d631f7db"
+metafile = true
+
+[[files]]
+file = "mods/mekanism.pw.toml"
+hash = "97abd23496116a8b3fb4b832ae5a7ef7c84063909b16dcbf1a403963893f2ea3"
+metafile = true
+
+[[files]]
 file = "mods/minecraft-comes-alive-reborn.pw.toml"
 hash = "89e03d1fea6d283c9d127ca0555c7124e5b84d05555575ff164a92c6e2511124"
 metafile = true
@@ -566,6 +586,11 @@ hash = "1d72ac6ec515db48cb89dae58345b514524f195bc5ab1942d1ce9fb91d30defd"
 metafile = true
 
 [[files]]
+file = "mods/rain-shield.pw.toml"
+hash = "516a0232945fe31ed1cd9e7e95d415d92ec5c7ca7c9759fd8789b215106382ee"
+metafile = true
+
+[[files]]
 file = "mods/refined-storage.pw.toml"
 hash = "4f8fa2d8bba834bac3240024294ff9f2881fe20e11d775a93497dec5d25be571"
 metafile = true
@@ -648,6 +673,11 @@ metafile = true
 [[files]]
 file = "mods/structure-gel-api.pw.toml"
 hash = "5dfd5e42573659ad84a5d870082aae38aaa8469aba2655e5b2cb14de4ca4cbdd"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "3eede8a7ebafb69840153ff51dbc879b0232799e90a834ab6d71274b1316179f"
 metafile = true
 
 [[files]]
