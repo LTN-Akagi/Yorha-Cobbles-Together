@@ -561,6 +561,11 @@ hash = "f33266862c7fa79fa1adf9f4142fa0a12b8e9cf4d73264000aaefc7e670648a2"
 metafile = true
 
 [[files]]
+file = "mods/placebo.pw.toml"
+hash = "0f807372e11d5a8a28266ab214fd243fa7558fe3f5a0cc6505090faede8c2dd6"
+metafile = true
+
+[[files]]
 file = "mods/player-shops.pw.toml"
 hash = "5f09a024cc9ea15c27be902c87ba68f9953c9d10eace4a190ccd006d3520312d"
 metafile = true
@@ -696,6 +701,11 @@ hash = "5e41fd8f565e09e83868e4c4776154befd3203b01ed5f09b6f7cd27687ec0041"
 metafile = true
 
 [[files]]
+file = "mods/toast-control.pw.toml"
+hash = "1195cdfa90ac4ef4d5ebed8dbca1df990cf58b0a0fe3b9b965ccefa0cfd5a2e3"
+metafile = true
+
+[[files]]
 file = "mods/toms-storage.pw.toml"
 hash = "03a75c21f9f75a904e0dc846e73b6747735432d96a7b8aa9fb7177116df252e2"
 metafile = true
@@ -703,6 +713,11 @@ metafile = true
 [[files]]
 file = "mods/torchmaster.pw.toml"
 hash = "7dea79ae9793a1a5ff3bb97f17ab5f835d07fd1053ade9114feced05bccb0229"
+metafile = true
+
+[[files]]
+file = "mods/treechop.pw.toml"
+hash = "ad6b7c1e84ff4fa28658862544431c88deb5bd25aff91684f4871ba148968eb7"
 metafile = true
 
 [[files]]
