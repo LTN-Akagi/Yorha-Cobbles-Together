@@ -132,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-mass-outbreaks.pw.toml"
-hash = "716340fb9222abd6ab7251c43f743abf941907ef63e38971b5455d34de17beb2"
+hash = "88cadc561d59e74d38c1b82396d3f3254c19b557f77fbf8fffa3576b8ca9685f"
 metafile = true
 
 [[files]]
@@ -143,6 +143,11 @@ metafile = true
 [[files]]
 file = "mods/cobblemonrider.pw.toml"
 hash = "c4fb28b07b296338715faf16203b04d19e779ea77edb6f27937351d5d809f6a7"
+metafile = true
+
+[[files]]
+file = "mods/cobblemontrainers.pw.toml"
+hash = "ff150225cd329b3aa43e20f01f2eef8a8d6da5f6ef428673ecf007a82e3aefd3"
 metafile = true
 
 [[files]]
