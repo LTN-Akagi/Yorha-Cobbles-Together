@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/advanced-mining-dimension.pw.toml"
+hash = "c086607d9dd7248285513ea317cf1351a488a13d13d0dfcad09a0b483795b5f9"
+metafile = true
+
+[[files]]
 file = "mods/aeinfinitybooster.pw.toml"
 hash = "d95d736d272530576a042e3ee4d11c5ecfe9f03d509219f0babe867ed14597b1"
 metafile = true
@@ -333,11 +338,6 @@ metafile = true
 [[files]]
 file = "mods/from-the-fog.pw.toml"
 hash = "f88eceacf4eb7696d520f90122ed04de3011491de33662ffb3d3789d06e20e0b"
-metafile = true
-
-[[files]]
-file = "mods/ftb-backups-2.pw.toml"
-hash = "b3693e7a5647d4e28fc30ad3e85193c668a98a410dc3f425f19561cfea68957f"
 metafile = true
 
 [[files]]
