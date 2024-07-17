@@ -521,6 +521,11 @@ hash = "3d3a8cd6517c5804bd1ce2e4e05197ef40d33ed04c26b448c3eba6ac2b25321b"
 metafile = true
 
 [[files]]
+file = "mods/mysql-jdbc.pw.toml"
+hash = "447c614bb50b65b7f9cfb3c8ecc29da23911336e2790fd817ee7dc2e3c4a8bf7"
+metafile = true
+
+[[files]]
 file = "mods/mystical-agradditions.pw.toml"
 hash = "f939cc10d02119ddd6827c8205c753416e191788032209db7cfcbafb186fef37"
 metafile = true
