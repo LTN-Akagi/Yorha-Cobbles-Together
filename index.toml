@@ -522,7 +522,7 @@ metafile = true
 
 [[files]]
 file = "mods/mysql-jdbc.pw.toml"
-hash = "447c614bb50b65b7f9cfb3c8ecc29da23911336e2790fd817ee7dc2e3c4a8bf7"
+hash = "f0a5a5d87e21138dc379a3c5504708032a20e842e942a3025822ce5a16210415"
 metafile = true
 
 [[files]]
