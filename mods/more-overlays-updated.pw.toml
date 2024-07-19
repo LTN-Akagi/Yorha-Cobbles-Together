@@ -1,0 +1,8 @@
+name = "More Overlays Updated"
+filename = "moreoverlays-1.22.7-mc1.20.2.jar"
+side = "client"
+
+[download]
+url = "https://www.dropbox.com/scl/fi/1ee4zrl5xxvoppvx48zma/moreoverlays-1.22.7-mc1.20.2.jar?rlkey=p8it79afyagoob4r0ty6950sz&st=98asgna3&dl=1"
+hash-format = "sha256"
+hash = "1cf063baf7eed2f41066a00cb5520d0ceed4104118990d508591c8a4c9781980"
