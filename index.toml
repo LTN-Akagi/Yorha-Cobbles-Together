@@ -166,6 +166,11 @@ hash = "db01ff332b926267e5343601473582e51cddd1dff7c0bfef0809dc9802c07480"
 metafile = true
 
 [[files]]
+file = "mods/configured.pw.toml"
+hash = "c1bdeff356cd2ac164e2c0e6d0ceeda234db9774c2df44fb9f0e71d3960cc3f1"
+metafile = true
+
+[[files]]
 file = "mods/controlling.pw.toml"
 hash = "1e56f528d8e21b0cf9c52c3d6deea2a4eafa408170b39a070195dbf66617f373"
 metafile = true
@@ -406,6 +411,11 @@ hash = "06476837027569174dc086ae42b7c8055814f9b8d9f1376b862fc4c54e96e0bd"
 metafile = true
 
 [[files]]
+file = "mods/jei.pw.toml"
+hash = "9899e9e582ecaf09d1d0c8c432b80f49cea1cd684d1c0d3321435d717536d553"
+metafile = true
+
+[[files]]
 file = "mods/journeymap-integration.pw.toml"
 hash = "5e5980aab5a7150783ff432b595ed2182a55ac8a591841ca0a34140f8a133c4a"
 metafile = true
@@ -628,21 +638,6 @@ metafile = true
 [[files]]
 file = "mods/rotom-phone-cobblemon.pw.toml"
 hash = "33101dcbe8358febee792dfca345c827d0296db809f1b0299bd8231e1c15ead2"
-metafile = true
-
-[[files]]
-file = "mods/roughly-enough-items-hacks.pw.toml"
-hash = "7a39d6d8faddf9ac5f10aa1b3c271b8dc27b1f79531bdbeefb8d268b68e9eef5"
-metafile = true
-
-[[files]]
-file = "mods/roughly-enough-items.pw.toml"
-hash = "a98b07ee08d2563048783d80c1ef7d64831d12577f7a91973090a9b8d4e7c9da"
-metafile = true
-
-[[files]]
-file = "mods/roughly-enough-resources.pw.toml"
-hash = "afbc1b044e9a53bc2db3686bdc4b8e8d099972de2bd802482a569594c209b471"
 metafile = true
 
 [[files]]
