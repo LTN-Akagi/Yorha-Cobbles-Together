@@ -227,7 +227,7 @@ metafile = true
 
 [[files]]
 file = "mods/createtabfix.pw.toml"
-hash = "bc280ae29e518c0c3dd83d66244d765950bc9f9df3367e345cbbf1a7083c7c20"
+hash = "0b9f4a1d7f8c2d9b1c81bee9251246ca580dac1b2c459d7d88aedbc042c7fb70"
 metafile = true
 
 [[files]]
