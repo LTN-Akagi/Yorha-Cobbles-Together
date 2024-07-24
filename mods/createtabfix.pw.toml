@@ -1,0 +1,8 @@
+name = "createtabfix"
+filename = "createtabfix-0.0.1.jar"
+side = "client"
+
+[download]
+url = "https://www.dropbox.com/scl/fi/k6juvr1r3xot2v1fgdq8e/createtabfix-0.0.1.jar?rlkey=6bj77xdghki1e1vz71b6o5jbj"
+hash-format = "sha256"
+hash = "8ce7069251b15ec94588b16b66fec0cd7ccfa30a4afe634f55bd625fb0dbf327"

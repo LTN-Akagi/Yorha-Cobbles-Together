@@ -226,6 +226,11 @@ hash = "2f27bc6b84433eb0bec1338dadba55037635ab7eb7209bc4609f539c89c4c65d"
 metafile = true
 
 [[files]]
+file = "mods/createtabfix.pw.toml"
+hash = "bc280ae29e518c0c3dd83d66244d765950bc9f9df3367e345cbbf1a7083c7c20"
+metafile = true
+
+[[files]]
 file = "mods/cucumber.pw.toml"
 hash = "e35517b83b74491569b8b39d1727d52bcd4fc604fa8e549f3adc97b14f621306"
 metafile = true
