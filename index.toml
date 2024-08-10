@@ -191,6 +191,11 @@ hash = "ecde06eae0428afe6d44435db3030d7073668e18427daa7b1e2930d4f33445fa"
 metafile = true
 
 [[files]]
+file = "mods/crafttweaker.pw.toml"
+hash = "e312f2039a8d63f719c4de567a6fd140a17b380e57e0135f1d7cd9817e13e917"
+metafile = true
+
+[[files]]
 file = "mods/create-cobblemon-industrialized.pw.toml"
 hash = "25e90157d6275c4098fb56aa6c2e6f38997d1a3d1b6a2d0a391b8943714f13f2"
 metafile = true
@@ -353,6 +358,11 @@ metafile = true
 [[files]]
 file = "mods/flux-networks.pw.toml"
 hash = "de63df967225278681e18afe0e323110322ec02006746980fbe77dbd974b20b3"
+metafile = true
+
+[[files]]
+file = "mods/framework.pw.toml"
+hash = "688b011ac6619ffe9b237336b63b4e14a355a1d1fa30793e1b600a223c488369"
 metafile = true
 
 [[files]]
@@ -523,6 +533,11 @@ metafile = true
 [[files]]
 file = "mods/mekanism.pw.toml"
 hash = "97abd23496116a8b3fb4b832ae5a7ef7c84063909b16dcbf1a403963893f2ea3"
+metafile = true
+
+[[files]]
+file = "mods/mighty-mail.pw.toml"
+hash = "62cbc36bcadc18478adcbd138ed6f976f9625ec75c687acdb83b26fbda8d08b2"
 metafile = true
 
 [[files]]
