@@ -311,6 +311,11 @@ hash = "c969d5553d22cd7d39654c6ca8b8a2ef7056eb8f3e763aeac5808bb156a01c6a"
 metafile = true
 
 [[files]]
+file = "mods/ex-pattern-provider.pw.toml"
+hash = "434b72cecd74924143a340e93397870b0756fd8e8ca14ae4bba782b94d763ef8"
+metafile = true
+
+[[files]]
 file = "mods/explorers-compass.pw.toml"
 hash = "0ba2a01934d2de588071ac5a5281dd9a29fc46166fe6b9f99a809a70fe1a6668"
 metafile = true
@@ -393,6 +398,11 @@ metafile = true
 [[files]]
 file = "mods/functional-storage.pw.toml"
 hash = "c78e7b2d7567974662903af16795c1d97c4102fa5876dcc6eeb9234f8946c8c4"
+metafile = true
+
+[[files]]
+file = "mods/glodium.pw.toml"
+hash = "2a7944b951ebfaa4dcf963c3e2faf43eb8115d99a4390daa49dd8ea6676e8828"
 metafile = true
 
 [[files]]
@@ -526,6 +536,11 @@ hash = "0b56bf8c727d35f46ab02b74573112bf80cc57a09c99a72c7d93744bf9888830"
 metafile = true
 
 [[files]]
+file = "mods/mega-cells.pw.toml"
+hash = "8dcded48817b3313cc796df6e3e193c399f17d19377ff6bc6b4a97b5f18bd75c"
+metafile = true
+
+[[files]]
 file = "mods/mekanism-generators.pw.toml"
 hash = "31bedc841cd4f28284805ce9b2c1ab53a39c2fa062816e1e520ef1b7d631f7db"
 metafile = true
@@ -648,6 +663,11 @@ metafile = true
 [[files]]
 file = "mods/rain-shield.pw.toml"
 hash = "516a0232945fe31ed1cd9e7e95d415d92ec5c7ca7c9759fd8789b215106382ee"
+metafile = true
+
+[[files]]
+file = "mods/rebornstorage.pw.toml"
+hash = "02bdcb95ad370287103eacc5edc4fb84f0054a509de3b5a5699bf35f0c9f0dce"
 metafile = true
 
 [[files]]
